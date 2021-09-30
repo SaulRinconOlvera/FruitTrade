@@ -1,0 +1,24 @@
+[{
+    "COUNTRY":"MX",
+    "COMMODITY":"mango",
+    "TRADE_COST": "32.00",
+    "VARIABLE_COST":"54.24"
+    },
+    {
+    "COUNTRY":"BR",
+    "COMMODITY":"mango",
+    "TRADE_COST":"20.00",
+    "VARIABLE_COST":"54.42"
+    },
+    {
+    "COUNTRY":"PA",
+    "COMMODITY":"mango",
+    "TRADE_COST":"20.00",
+    "VARIABLE_COST":"44.42"
+    },
+    {
+    "COUNTRY":"PA",
+    "COMMODITY":"raspberry",
+    "TRADE_COST":"20.00",
+    "VARIABLE_COST":"34.12"
+}]
